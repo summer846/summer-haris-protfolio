@@ -2,3 +2,34 @@ html {
   height: 100%;
   width: 100%;
 }
+
+h1,
+
+p {color: black
+}
+
+.navbar{
+  background-color: #F3C3C3 ;
+}
+
+.about{
+  background-color: #F3C3C3;
+}
+
+.about:hover {background-color: ghostwhite;}
+
+.skills{
+  background-color: #F3C3C3;
+}
+
+.contact{
+  background-color: #F3C3C3;
+}
+
+body{
+  margin: 0px;
+}
+
+ul {
+  list-style-type: none;
+}
